@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align="center">👋 Hi there~ This is K.265</h2>
+
+I'm very interested in computer technology.
+
+- 🌱 I’m currently learning Go 
+
+Here's my blog: <https://k265.github.io>
 
 <!--
 **K265/K265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
